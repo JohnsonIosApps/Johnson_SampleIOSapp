@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Robin</key>
+	<string>http://www.kidzone.ws/images-changed/birds/robin1.jpg</string>
+	<key>Squril</key>
+	<string>http://www.kidzone.ws/images-changed/birds/canada3.jpg</string>
+	<key>Canada</key>
+	<string>http://www.kidzone.ws/images-changed/birds/canada6.jpg</string>
+	<key>Artic Fox</key>
+	<string>http://www.kidzone.ws/images-changed/birds/arctic-fox.jpg</string>
+	<key>Gho</key>
+	<string>http://www.kidzone.ws/images-changed/birds/gho6.jpg</string>
+	<key>Pine</key>
+	<string>http://www.kidzone.ws/images-changed/birds/femalepine2.jpg</string>
+	<key>HopWell</key>
+	<string>http://www.kidzone.ws/images-changed/birds/animals_birds_rock_doves_at_hopewell_rocks_new_brunswick.jpg</string>
+	<key>Crow</key>
+	<string>http://www.kidzone.ws/images-changed/birds/crow.jpg</string>
+	<key>Pitarmigan</key>
+	<string>http://www.kidzone.ws/images-changed/birds/ptarmigan4.jpg</string>
+	<key>Big Turkey</key>
+	<string>http://www.kidzone.ws/animals/turkey3.JPG</string>
+	<key>Turkey</key>
+	<string>http://www.kidzone.ws/animals/turkey10.JPG</string>
+	<key>White Turkey</key>
+	<string>http://www.kidzone.ws/animals/turkey8.JPG</string>
+	<key>Sharp tail</key>
+	<string>http://www.kidzone.ws/images-changed/birds/sharptail_grouse.jpg</string>
+</dict>
+</plist>
